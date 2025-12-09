@@ -1,5 +1,5 @@
 html{
-    font-family: Poppins, 'Times New Roman', Times, serif ;
+    font-family: Quicksand, 'Times New Roman', Times, serif ;
 }
 
 body{
@@ -58,7 +58,7 @@ header nav ul{
 }
 
 .Ela div{
-    background: #c786e6;
+    background: #7602b5;
     border-radius: 10px;
     margin: 20px auto;
     max-width: 900px;
@@ -76,7 +76,7 @@ header nav ul{
 }
 
 .Ela a{
-    background: orange;
+    background: rgb(183, 82, 238);
     font-size: 1.15rem;
     color: black;
     padding: 4px 8px;
@@ -86,8 +86,37 @@ header nav ul{
 
 footer{
     width: 100%;
-    background-color: blue;
+    background-color: rgb(1, 1, 136);
     padding: 20px 0;
+    
+}
+
+footer a, footer p{
     color: white;
+    margin-left: 2vw;
+}
+.pg2{
+    background-image: url(ClaireGata.png);
+}
+.howMHer h1{
+    font-size: 2rem;
     text-align: center;
+    margin-bottom: 5vw;
+}
+.howMHer div{
+    background-color: orange;
+    margin: 0 7vw 0 7vw;
+    padding: 10px;
+    border-radius: 10px;
+}
+.howMHer p{
+    font-size: 1.5rem;
+    margin-bottom:15px;
+}
+.howMHer a{
+    background-color: mediumpurple;
+    color: black;
+    font-size: 1.25rem;
+    border-radius: 5px;
+    padding: 3px;
 }
