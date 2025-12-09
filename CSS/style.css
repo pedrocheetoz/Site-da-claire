@@ -120,3 +120,22 @@ footer a, footer p{
     border-radius: 5px;
     padding: 3px;
 }
+.howeTalk div{
+    background-color:blue ;
+    margin: 2vw 5vw 2vw 5vw;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.howeTalk h1, .howeTalk div p{
+    text-align: center;
+    color: white;
+    
+}
+.howeTalk h1{
+    font-size: 2rem;
+}
+.howeTalk p{
+    font-size: 1.25rem;
+    padding: 10px;
+}
